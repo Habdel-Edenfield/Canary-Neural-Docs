@@ -18,6 +18,10 @@ Olá! Sou **Habdel Edenfield** ([GitHub](https://github.com/Habdel-Edenfield) | 
 
 ---
 
+![Preview](https://i.imgur.com/jNLfYwB.png)
+
+---
+
 ## 🛠️ Funcionalidades
 
 - **Análise Automática de Código**
