@@ -1,0 +1,5 @@
+# declarations
+
+### Localização
+`declarations.hpp`
+

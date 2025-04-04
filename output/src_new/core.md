@@ -1,0 +1,5 @@
+# core
+
+### Localização
+`core.hpp`
+
